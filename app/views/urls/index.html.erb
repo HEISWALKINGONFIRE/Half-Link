@@ -1,0 +1,38 @@
+<div class="background-imag">
+&nbsp
+<center id="icon"><a href = "/"><img src="/assets/Half-Life-logotype-1024x819.png" width="250px"></a></center>
+	<!-- <div class="next"> -->
+		<div class="all-text">
+
+			<!-- <div class="tint"> -->
+
+				<!-- <div class="function"> -->
+
+					<p>
+						<h1>half link. half every url link.</h1>
+					</p>
+					<p>
+					&nbsp
+						<h5>insert any link here and it will shorten it</h5>
+					</p>
+						<%=form_for @url do |t|%>
+						Enter URL:
+							<%= t.text_field :long_url, placeholder:"eg.http//:www.nameofwebsite.com"%>
+							<%= t.submit "half-link"%>
+						<%end%>
+						&nbsp
+						<% flash.each do |name, value|%>
+							<div class="alert alert-<%= name%>"><%= value%></div>
+							<%end%>
+						<!-- <div class="links"> -->
+							<div class="background-color">
+							</div>
+            
+								<br>
+								<br>
+							</div>
+						</div>
+				</div>
+			<div>
+		</div>
+	</div>
