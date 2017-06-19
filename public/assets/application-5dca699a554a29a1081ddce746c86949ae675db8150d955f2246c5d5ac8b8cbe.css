@@ -1,0 +1,90 @@
+/* line 5, /home/andre/Desktop/Half-Link-master/app/assets/stylesheets/urls.scss */
+body {
+  background-color: white;
+  height: auto;
+}
+
+/* line 11, /home/andre/Desktop/Half-Link-master/app/assets/stylesheets/urls.scss */
+.global_nev {
+  background: white;
+  height: 20px;
+}
+
+/* line 16, /home/andre/Desktop/Half-Link-master/app/assets/stylesheets/urls.scss */
+.background-img {
+  background-color: white;
+  height: 100%;
+}
+
+/* line 21, /home/andre/Desktop/Half-Link-master/app/assets/stylesheets/urls.scss */
+.all-text {
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+}
+
+/* line 27, /home/andre/Desktop/Half-Link-master/app/assets/stylesheets/urls.scss */
+.a:hover {
+  text-decoration-color: orange;
+}
+
+/* line 32, /home/andre/Desktop/Half-Link-master/app/assets/stylesheets/urls.scss */
+a {
+  color: black;
+  text-decoration: none;
+}
+
+/* line 38, /home/andre/Desktop/Half-Link-master/app/assets/stylesheets/urls.scss */
+a:hover {
+  color: red;
+}
+
+/* line 41, /home/andre/Desktop/Half-Link-master/app/assets/stylesheets/urls.scss */
+h1 {
+  color: white;
+}
+
+/* line 46, /home/andre/Desktop/Half-Link-master/app/assets/stylesheets/urls.scss */
+input {
+  width: 500px;
+  height: 50px;
+}
+
+/* line 51, /home/andre/Desktop/Half-Link-master/app/assets/stylesheets/urls.scss */
+input:hover {
+  color: orange;
+}
+
+/* line 55, /home/andre/Desktop/Half-Link-master/app/assets/stylesheets/urls.scss */
+#icon {
+  background-color: white;
+  margin-top: -10px;
+  margin-bottom: -25px;
+}
+
+/* line 60, /home/andre/Desktop/Half-Link-master/app/assets/stylesheets/urls.scss */
+.whitespace {
+  background-color: orange;
+  margin-top: -10px;
+}
+
+/* line 65, /home/andre/Desktop/Half-Link-master/app/assets/stylesheets/urls.scss */
+.show {
+  font-weight: bolder;
+}
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any other CSS/SCSS
+ * files in this directory. Styles in this file should be added after the last require_* statement.
+ * It is generally better to create a new file per style scope.
+ *
+
+
+ */
+
